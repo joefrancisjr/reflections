@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+  Initializing a new repository places the files needed for git to log commit history. You need to do this if you intend to commit changes for tracking.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+  The staging area places a version of your file in a holding place to save to your commit. This is different than the working directory as it is only saving info from the time it was placed in the staging area, not after.
+
+  
