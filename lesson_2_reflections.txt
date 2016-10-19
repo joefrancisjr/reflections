@@ -6,4 +6,6 @@ How is the staging area different from the working directory and the repository?
 
   The staging area places a version of your file in a holding place to save to your commit. This is different than the working directory as it is only saving info from the time it was placed in the staging area, not after.
 
-  
+How can you use the staging area to make sure you have one commit per logical change?
+
+  Using the staging area ensures you have one commit per logical change, as you choose the files to add after the change has been completed.
