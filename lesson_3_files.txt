@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+  Using a remote respository would be ideal when you are needing to place your files in a location for others to view for feedback or contributions. 
+  You could also prefer to use a remote to store your files in the cloud and keep them in another location.
